@@ -1,11 +1,9 @@
-# main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/About/"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Projects"
+    url: "/Projects/"
 
-  - title: "Publications"
-    url: "/#-publications"
-
+  - title: "Think"
+    url: "/Think/"
