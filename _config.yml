@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Nan Pu"
+title                    : "Maochi Yang"
 #description              : "Full Professor"
-repository               : "TPCD/TPCD.github.io"
+repository               : "maochiyang/maochiyang.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+#google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Nan Pu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Full Professor"
-  location         : "Hefei, China"
-  employer         : "HFUT"
+  name             : "Maochi Yang"
+  avatar           : "images/android-chrome-192x192(1).png"
+  bio              : #"Full Professor"
+  location         : "China"
+  employer         : #"HFUT"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=QBb2DjwAAAAJ"
-  email            : "n.pu@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Nan-Pu" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : #"https://scholar.google.com/citations?user=QBb2DjwAAAAJ"
+  email            : "yangmaochi323@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Nan-Pu" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TPCD" # e.g., "github username"
+  github           : "maochiyang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/210/5100.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : #"https://dblp.org/pid/210/5100.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
