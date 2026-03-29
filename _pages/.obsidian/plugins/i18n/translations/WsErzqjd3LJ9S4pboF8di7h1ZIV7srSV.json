@@ -1,0 +1,277 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "surfing",
+        "version": "1.0.0",
+        "title": "Surfing",
+        "description": "Surfing Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.9.14",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Save selection as markdown",
+                    "target": "将选中内容保存为 Markdown"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Not Ready Yet",
+                    "target": "尚未就绪"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "New Group",
+                    "target": "新建分组"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open With Hover Editor",
+                    "target": "用悬浮编辑器打开"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Search In Surfing",
+                    "target": "在 Surfing 中搜索"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Import successfully!!!",
+                    "target": "导入成功！！！"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Bookmark already exists.",
+                    "target": "书签已存在。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Failed to add bookmark.",
+                    "target": "添加书签失败。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Save success!",
+                    "target": "保存成功！"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Save failed!",
+                    "target": "保存失败！"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Not Ready Yet",
+                    "target": "尚未准备好"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Please install obsidian-hover-editor plugin first",
+                    "target": "请先安装 obsidian-hover-editor 插件"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Browsing data cleared",
+                    "target": "浏览数据已清除"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "for screen reader",
+                    "target": "用于屏幕阅读器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "content",
+                    "source": "\"Not Found\"",
+                    "target": "\"未找到\""
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "content",
+                    "source": "\" \"",
+                    "target": "\" \""
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "A awesome note-taking tool",
+                    "target": "一款很棒的笔记工具"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "No data",
+                    "target": "无数据"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Created Time",
+                    "target": "创建时间"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Modified Time",
+                    "target": "修改时间"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Open Current URL In Surfing",
+                    "target": "在 Surfing 中打开当前 URL"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Please input BookMarkBar name!",
+                    "target": "请输入 BookMarkBar 名称！"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Please input BookMarkBar url!",
+                    "target": "请输入 BookMarkBar URL！"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Please input the description!",
+                    "target": "请输入描述！"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Please input the tags!",
+                    "target": "请输入标签！"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Please select the category!",
+                    "target": "请选择分类！"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Please select the created time!",
+                    "target": "请选择创建时间！"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Please select the modified time!",
+                    "target": "请选择修改时间！"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "open surfing view next",
+                    "target": "打开下一页 surfing 视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Clear browsing data",
+                    "target": "清除浏览数据"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open Inspecter",
+                    "target": "打开检查器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Copy Surfing Tabs as Markdown",
+                    "target": "将 Surfing 标签页复制为 Markdown"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Select time",
+                    "target": "选择时间"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Select date",
+                    "target": "选择日期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Please select",
+                    "target": "请选择"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Please select tags",
+                    "target": "请选择标签"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Web Browser",
+                    "target": "网页浏览器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No settings match search",
+                    "target": "没有设置符合搜索条件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Obsidian BookmarkLets Code",
+                    "target": "Obsidian 书签小工具代码"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No results found",
+                    "target": "未找到结果"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Workspace Name",
+                    "target": "工作区名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Save Bookmark",
+                    "target": "保存书签"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Are you sure to delete this bookmark?",
+                    "target": "确定要删除此书签吗？"
+                }
+            ],
+            "regex": []
+        }
+    }
+}

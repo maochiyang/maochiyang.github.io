@@ -1,0 +1,35 @@
+{
+    "plugins": {
+        "editing-toolbar": {
+            "id": "editing-toolbar",
+            "isApplied": true,
+            "pluginVersion": "3.2.7",
+            "translationVersion": "1.0.0"
+        },
+        "obsidian42-brat": {
+            "id": "obsidian42-brat",
+            "isApplied": true,
+            "pluginVersion": "2.0.2",
+            "translationVersion": "1.0.0"
+        },
+        "pdf-plus": {
+            "id": "pdf-plus",
+            "isApplied": true,
+            "pluginVersion": "0.40.31",
+            "translationVersion": "1.0.0"
+        },
+        "surfing": {
+            "id": "surfing",
+            "isApplied": true,
+            "pluginVersion": "0.9.14",
+            "translationVersion": "1.0.0"
+        },
+        "templater-obsidian": {
+            "id": "templater-obsidian",
+            "isApplied": true,
+            "pluginVersion": "2.18.1",
+            "translationVersion": "1.0.0"
+        }
+    },
+    "themes": {}
+}

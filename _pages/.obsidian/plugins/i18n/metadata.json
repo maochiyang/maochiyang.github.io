@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "sources": {
+    "Ubl72SwemsqGBTUAMWXppoRGCdepwC3l": {
+      "id": "Ubl72SwemsqGBTUAMWXppoRGCdepwC3l",
+      "plugin": "obsidian42-brat",
+      "title": "BRAT",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": false,
+      "checksum": "3555a73e56d8f24abad81d9d2cae7ca5e75bfcae7ffa27089e0ab1beaa772ed8",
+      "updatedAt": 1773735380519,
+      "createdAt": 1773735373772
+    },
+    "8-02LUjUc2APh5zqrYW_1yIjENGhpL2B": {
+      "id": "8-02LUjUc2APh5zqrYW_1yIjENGhpL2B",
+      "plugin": "obsidian42-brat",
+      "title": "BRAT",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": true,
+      "checksum": "d639b8ff38d77fe20939a8a5ff5a3bfc5d0367b61336e73e6cedff6eda994423",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "040bf0a2040bf0a2040bf0a2040bf0a2"
+      },
+      "updatedAt": 1773735474896,
+      "createdAt": 1773735474896
+    },
+    "EGCbChC1LSmhw9l-2zdo28M5Kb4rLxJr": {
+      "id": "EGCbChC1LSmhw9l-2zdo28M5Kb4rLxJr",
+      "plugin": "obsidian42-brat",
+      "title": "BRAT",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": false,
+      "checksum": "3555a73e56d8f24abad81d9d2cae7ca5e75bfcae7ffa27089e0ab1beaa772ed8",
+      "updatedAt": 1773735481757,
+      "createdAt": 1773735481756
+    },
+    "lPhn4i1Y4ypqUcbt7ut6HNTW56aD_lk8": {
+      "id": "lPhn4i1Y4ypqUcbt7ut6HNTW56aD_lk8",
+      "plugin": "editing-toolbar",
+      "title": "Editing Toolbar",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": true,
+      "checksum": "2543224a26f626229969a8333f18cc88fc3c10e6048e636430e7b5cdab16ed97",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "08a4498508a4498508a4498508a44985"
+      },
+      "updatedAt": 1773735563782,
+      "createdAt": 1773735563782
+    },
+    "Fbo_Yf9FJndepJPguKb8eseNt9SdGiYI": {
+      "id": "Fbo_Yf9FJndepJPguKb8eseNt9SdGiYI",
+      "plugin": "pdf-plus",
+      "title": "PDF++",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": true,
+      "checksum": "cfba8ab3c27cd68af9e8222c905f60179f4c4f8ef1facce37f8241a4b93fd75c",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "450d167c450d167c450d167c450d167c"
+      },
+      "updatedAt": 1773735565253,
+      "createdAt": 1773735565253
+    },
+    "WsErzqjd3LJ9S4pboF8di7h1ZIV7srSV": {
+      "id": "WsErzqjd3LJ9S4pboF8di7h1ZIV7srSV",
+      "plugin": "surfing",
+      "title": "Surfing",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": true,
+      "checksum": "144599e63cfe9ca1fc7ca29386fd2409c882a82f57dcbe1de7cc964416a2559e",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "11e9efa911e9efa911e9efa911e9efa9"
+      },
+      "updatedAt": 1773735566595,
+      "createdAt": 1773735566595
+    },
+    "CXgRmgaK7CsDdCa7byISwLCwppDp_c-b": {
+      "id": "CXgRmgaK7CsDdCa7byISwLCwppDp_c-b",
+      "plugin": "templater-obsidian",
+      "title": "Templater",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": true,
+      "checksum": "dfd5fe69365a2f8964f2d96d787bd660feff16b9fcd6cf452c9dd320eaecce06",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "5f10c48d5f10c48d5f10c48d5f10c48d"
+      },
+      "updatedAt": 1773735568846,
+      "createdAt": 1773735568846
+    }
+  }
+}

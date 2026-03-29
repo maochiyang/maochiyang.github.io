@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "443d127ba758e920",
+    "id": "5274a715f7d491af",
     "type": "split",
     "children": [
       {
-        "id": "15ed42b45b10a61f",
+        "id": "fcf5d444286a8713",
         "type": "tabs",
         "children": [
           {
-            "id": "b9515b8fd51dacd0",
+            "id": "6d1a31ad2f258292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "Projects"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b3ab07dc1ecc7031",
+    "id": "5f25f247c2302a30",
     "type": "split",
     "children": [
       {
-        "id": "ea88dd79e6cd3ab8",
+        "id": "e1b1b1d8e1c4c5cd",
         "type": "tabs",
         "children": [
           {
-            "id": "0e62854ee6d31d46",
+            "id": "214bc36358cc8c10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "a1aa87d16d7079fd",
+            "id": "0ff2fc450a1e4b3d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#感悟  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "b6cfc07bb34a409b",
+            "id": "7b0597b61813e5f4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,29 +73,39 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "15fc13fcc4623c1e",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "right": {
-    "id": "9f297c68c818ac1e",
+    "id": "ad8edbcaf235cc9d",
     "type": "split",
     "children": [
       {
-        "id": "405f73defa632ab1",
+        "id": "096b3af7eec58866",
         "type": "tabs",
         "children": [
           {
-            "id": "23be5d2e50ced666",
+            "id": "abf53d282bd6d8d8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
-                "collapseAll": false,
+                "file": "笔记/2026-03-15.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,31 +114,31 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "about 的反向链接列表"
+              "title": "2026-03-15 的反向链接列表"
             }
           },
           {
-            "id": "32533f8bba085d86",
+            "id": "311a5ba495cee1c6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "笔记/2026-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "about 的出链列表"
+              "title": "2026-03-15 的出链列表"
             }
           },
           {
-            "id": "fb7a6a067d0eb17b",
+            "id": "47305daec1831445",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -137,7 +147,7 @@
             }
           },
           {
-            "id": "a0fdfdf96d0c413e",
+            "id": "deec122c30f1182c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,21 +161,22 @@
             }
           },
           {
-            "id": "07268e54532d8071",
+            "id": "49f8dcf3a7bad2ca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md",
+                "file": "笔记/2026-03-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "about 的大纲"
+              "title": "2026-03-15 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,13 +191,58 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "b9515b8fd51dacd0",
+  "active": "6d1a31ad2f258292",
   "lastOpenFiles": [
     "Think.md",
-    "Projects.md",
-    "about.md"
+    "about.md",
+    "工具/密码/wsl ubunt.md",
+    "to-do-list/2026-3-15 to do.md",
+    "工具/密码",
+    "技术/计划/2026-4.md",
+    "笔记/宏观/蒙代尔三元悖论.md",
+    "笔记/宏观/Ray Dalio经济机器是如何运作的.md",
+    "笔记/宏观/费雪流动性理论.md",
+    "to-do-list/实习时间.md",
+    "工具/文本/稳定币1-11章.pdf",
+    "~$26届毕业设计时间安排-计算机.docx",
+    "to-do-list/比赛列表.md",
+    "笔记/宏观/2026两会 习李经济学.md",
+    "笔记/宏观/美国逆回购的作用.md",
+    "笔记/宏观/马歇尔计划的深远影响.md",
+    "笔记/宏观/稳定币与货币3.0.md",
+    "笔记/宏观/企业的估值与发展阶段.md",
+    "笔记/宏观/Ray Dalio论美伊冲突，变化中的世界秩序.md",
+    "高质量流动性资产HQLA.md",
+    "笔记/宏观/高估值飞轮模型.md",
+    "工具/linux双系统.md",
+    "数据/金融/REITS溢价率2026-3-17.md",
+    "未命名 1.md",
+    "工具/youtube.md",
+    "工具/github.md",
+    "工具/b站.md",
+    "工具/千问.md",
+    "工具/豆包.md",
+    "工具/附件/Pasted image 20260318154241.png",
+    "工具/文本/耶鲁博弈论笔记全 24 讲 v2.0（Apollo, Gabriel）.pdf",
+    "工具/附件/Pasted image 20260317142636.png",
+    "工具/文本",
+    "技术/理论",
+    "笔记/日记",
+    "技术/计划",
+    "工具/附件",
+    "Pasted image 20260317142549.png",
+    "数据/金融",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名 2.canvas"
   ]
 }
